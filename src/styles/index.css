@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #282D35;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  border-bottom-color: white;
+  background: #21222A;
+  height: 90px;
+  padding: 30px 25px;
+}
+
+nav > h3 {
+  margin-right: auto;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.custom-image {
+  height: 30px;
+  margin-right: 7px;
+}
+
+.nav-text {
+  color: #61DAFB;
+}
+
+.small-nav-text {
+  color: white;
+}
+
+
+main {
+  color: white;
+  padding: 55px 27px;
+  background-image: url(../assets/peek.png);
+  background-repeat: no-repeat;
+  background-position: right 75%
+}
+
+.main-title {
+  margin: 0;
+  font-size: 40px;
+  letter-spacing: -0.05em;
+}
+
+.main-list {
+  margin-top: 45px;
+  max-width: 450px;
+}
+
+.main-list > li {
+  line-height: 20px;
+  padding-block: 15px;
+}
+
+.main-list > li::marker {
+  color: #61DAFB;
+  font-size: 1.6rem;
+}
