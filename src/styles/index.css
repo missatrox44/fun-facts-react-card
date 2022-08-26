@@ -24,7 +24,7 @@ nav > h3 {
 }
 
 .custom-image {
-  height: 30px;
+  height: 40px;
   margin-right: 7px;
 }
 
@@ -39,6 +39,7 @@ nav > h3 {
 
 .small-nav-text:hover {
   color: #61DAFB;
+  font-size: larger;
 }
 
 
