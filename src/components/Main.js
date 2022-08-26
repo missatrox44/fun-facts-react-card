@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react'
 
 export default function Main() {
     return (
@@ -9,7 +9,7 @@ export default function Main() {
           <li>Member of 2017 Backcountry Trails Crew</li>
           <li>Has been playing trumpet for 20 years</li>
           <li>Favorite food is anything Thai</li>
-          <li>Enjoys the company of cats, dogs and/or anything with fur or scales</li>
+          <li>Enjoys the company of cats, dogs and/or other creatures with fur or scales</li>
           <li>Has an eight-legged cat named Jackie Daytona</li>
         </ul>
       </main>
