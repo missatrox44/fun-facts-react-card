@@ -3,13 +3,14 @@ import React from "react"
 export default function Main() {
     return (
       <main className='main-content'>
-        <h1 className='main-title'>Fun facts about React</h1>
+        <h1 className='main-title'>Fun facts about Sara</h1>
         <ul className='main-list'>
-          <li>Was first released in 2013</li>
-          <li>Was originally created by Jordan Walke</li>
-          <li>Has well over 100K stars on GitHub</li>
-          <li>Is maintained by Facebook</li>
-          <li>Powers thousands of enterprise apps, including mobile apps</li>
+          <li>Born in Abu Dhabi, raised in El Paso</li>
+          <li>Member of 2017 Backcountry Trails Crew</li>
+          <li>Has been playing trumpet for 20 years</li>
+          <li>Favorite food is anything Thai</li>
+          <li>Enjoys the company of cats, dogs and/or anything with fur or scales</li>
+          <li>Has an eight-legged cat named Jackie Daytona</li>
         </ul>
       </main>
     

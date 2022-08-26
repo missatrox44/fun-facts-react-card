@@ -34,6 +34,11 @@ nav > h3 {
 
 .small-nav-text {
   color: white;
+  text-decoration: none;
+}
+
+.small-nav-text:hover {
+  color: #61DAFB;
 }
 
 

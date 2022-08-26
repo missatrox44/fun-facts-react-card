@@ -5,9 +5,9 @@ export default function Navbar() {
     return (
       <header>
          <nav>
-            <img className='custom-image' alt='react logo' src='../assets/react-transparent-logo.png' />
-            <h3 className='nav-text'>ReactFacts</h3>
-            <p className='small-nav-text'>React Course - Project 1</p>
+            <img className='custom-image' alt='react logo' src='../assets/logo192.png' />
+            <h3 className='nav-text'>SaraFacts</h3>
+            <a target='_blank' className='small-nav-text' href='https://missatrox44.github.io/portfolio/'>Portfolio</a>
         </nav>
         </header>
 
